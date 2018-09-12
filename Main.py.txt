@@ -1,10 +1,12 @@
 import math.py
 a=1
-b=2
+b=0
 c=3
 d=4
-e=0
-projekt1=1
+dev2=1
+projekt1=2
 projekt2=1
 projekt3=1
 dev1=1
+projekt5=10
+
