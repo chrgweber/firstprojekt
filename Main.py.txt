@@ -4,11 +4,11 @@ bb=33
 cc=33
 dd=33
 de2=1; 
-% Wichtiges gutes zusätzliches Feature
-
-projekt1=2
-projekt2=1
-projekt3=1
+% Wichtiges zusaetzliches Feature
+projekt7=2
+projekt2=88
+projekt4=11
+da ist mir noch eine wichtige Funktion eingefallen.
 dev1=1
 projekt5=10
 
