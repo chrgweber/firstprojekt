@@ -1,8 +1,8 @@
 import math.py
-a=1
-b=0
-c=3
-d=4
+a=33
+b=33
+c=33
+d=33
 dev2=1
 projekt1=2
 projekt2=1
