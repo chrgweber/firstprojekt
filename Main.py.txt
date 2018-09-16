@@ -5,7 +5,6 @@ cc=33
 dd=33
 de2=1; 
 % Wichtiges zusaetzliches Feature
-
 projekt7=2
 projekt2=88
 projekt4=11
