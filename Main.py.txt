@@ -4,7 +4,7 @@ bb=33
 cc=33
 dd=33
 de2=1; 
-% Wichtiges zusätzliches Feature
+% Wichtiges gutes zusätzliches Feature
 
 projekt1=2
 projekt2=1
