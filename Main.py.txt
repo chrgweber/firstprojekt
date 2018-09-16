@@ -1,9 +1,11 @@
 import math.py
-a=33
-b=33
-c=33
-d=33
-dev2=1
+aa=33
+bb=33
+cc=33
+dd=33
+de2=1; 
+% Wichtiges zusätzliches Feature
+
 projekt1=2
 projekt2=1
 projekt3=1
